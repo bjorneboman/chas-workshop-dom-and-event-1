@@ -1,2 +1,9 @@
-# chas-workshop-dom-and-event-1
+## Chas Workshop 
+# DOM & Event
+
 Chas Academy workshop about DOM manipulation and event handling.
+
+### Collaborators
+Max
+Sahar
+Björn
